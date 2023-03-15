@@ -2,7 +2,7 @@
 
 Hey there!
 
-This repository contains all the data and code I used to create my short story for the San Antonio Express-News that searched for wind turbine concentrations in Texas.
+This repository contains all the data and code I used to create my [short story for the San Antonio Express-News that searched for wind turbine concentrations in Texas](https://www.expressnews.com/news/local/article/texas-wind-energy-map-17838642.php).
 
 **Questions we answered using the data**:
 
